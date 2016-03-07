@@ -1,1 +1,1 @@
-* [Cirrus Search](cirrus-search.md)
+* [CirrusSearch](cirrus-search.md)
